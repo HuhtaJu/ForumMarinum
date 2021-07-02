@@ -1,0 +1,32 @@
+{
+  "sights": [{
+    "name": "Turun Linna",
+    "closingTime": " 20.00",
+    "route": " 5",
+    "priceAdult": " 10 €",
+    "priceChild": " ilmaiseksi",
+    "priceStudent": " 5 €",
+    "monday": "8:00 - 20:00",
+    "tuesday": "8:00 - 20:00",
+    "wednesday": "8:00 - 19:00",
+    "thursday": "8:00 - 20:00",
+    "friday": "8:00 - 20:00",
+    "saturday": "8:00 - 20:00",
+    "sunday": "8:00 - 20:00"
+  },
+    {
+      "name": "Kakolan Funikulaari",
+      "closingTime": " 18.00",
+      "route": " 4",
+      "priceAdult": " 20 €",
+      "priceChild": " ilmaiseksi",
+      "priceStudent": " 10 €",
+      "monday": "8:00 - 18:00",
+      "tuesday": "8:00 - 20:00",
+      "wednesday": "8:00 - 19:00",
+      "thursday": "8:00 - 20:00",
+      "friday": "8:00 - 20:00",
+      "saturday": "8:00 - 20:00",
+      "sunday": "8:00 - 18:00"
+    }]
+}

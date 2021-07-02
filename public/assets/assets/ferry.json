@@ -1,0 +1,260 @@
+{
+  "departure": [
+    {
+      "departuretime": "10:25",
+      "pier": "3",
+      "ferry": "M/S Ruissalo",
+      "departure": "Forum Marinum",
+      "destination": "Kansanpuisto",
+      "arrivaltime": "11:00",
+      "ticket": "5,00"
+    },
+    {
+      "departuretime": "11:00",
+      "pier": "3",
+      "ferry": "M/S Lily,",
+      "departure": "Turku",
+      "destination": "Vepsä",
+      "arrivaltime": "11:45",
+      "ticket": "5,00"
+    },
+    {
+      "departuretime": "11:10",
+      "pier": "3",
+      "ferry": "M/S Jaarli",
+      "departure": "Forum Marinum",
+      "destination": "Kansanpuisto",
+      "arrivaltime": "12:00",
+      "ticket": "5,00"
+    },
+    {
+      "departuretime": "11:55",
+      "pier": "3",
+      "ferry": "M/S Ruissalo",
+      "departure": "Forum Marinum",
+      "destination": "Kansanpuisto",
+      "arrivaltime": "12:30",
+      "ticket": "5,00"
+    },
+    {
+      "departuretime": "12:40",
+      "pier": "3",
+      "ferry": "M/S Jaarli",
+      "departure": "Forum Marinum",
+      "destination": "Kansanpuisto",
+      "arrivaltime": "13:15",
+      "ticket": "5,00"
+    },
+    {
+      "departuretime": "13:25",
+      "pier": "3",
+      "ferry": "M/S Ruissalo",
+      "departure": "Forum Marinum",
+      "destination": "Kansanpuisto",
+      "arrivaltime": "14:00",
+      "ticket": "5,00"
+    },
+    {
+      "departuretime": "14:00",
+      "pier": "3",
+      "ferry": "M/S Lily,",
+      "departure": "Turku",
+      "destination": "Vepsä",
+      "arrivaltime": "15:00",
+      "ticket": "5,00"
+    },
+    {
+      "departuretime": "14:10",
+      "pier": "3",
+      "ferry": "M/S Jaarli",
+      "departure": "Forum Marinum",
+      "destination": "Kansanpuisto",
+      "arrivaltime": "14:45",
+      "ticket": "5,00"
+    },
+    {
+      "departuretime": "14:50",
+      "pier": "3",
+      "ferry": "M/S Ruissalo",
+      "departure": "Forum Marinum",
+      "destination": "Kansanpuisto",
+      "arrivaltime": "15:30",
+      "ticket": "5,00"
+    },
+    {
+      "departuretime": "15:40",
+      "pier": "3",
+      "ferry": "M/S Jaarli",
+      "departure": "Forum Marinum",
+      "destination": "Kansanpuisto",
+      "arrivaltime": "16:15",
+      "ticket": "5,00"
+    },
+    {
+      "departuretime": "16:25",
+      "pier": "3",
+      "ferry": "M/S Ruissalo",
+      "departure": "Forum Marinum",
+      "destination": "Kansanpuisto",
+      "arrivaltime": "17:00",
+      "ticket": "5,00"
+    },
+    {
+      "departuretime": "17:00",
+      "pier": "3",
+      "ferry": "M/S Lily,",
+      "departure": "Turku",
+      "destination": "Vepsä",
+      "arrivaltime": "18:00",
+      "ticket": "5,00"
+    },
+    {
+      "departuretime": "17:10",
+      "pier": "3",
+      "ferry": "M/S Jaarli",
+      "departure": "Forum Marinum",
+      "destination": "Kansanpuisto",
+      "arrivaltime": "17:45",
+      "ticket": "5,00"
+    },
+    {
+      "departuretime": "18:40",
+      "pier": "3",
+      "ferry": "M/S Jaarli",
+      "departure": "Forum Marinum",
+      "destination": "Kansanpuisto",
+      "arrivaltime": "19:15",
+      "ticket": "5,00"
+    }
+  ],
+
+
+  "arrival": [
+    {
+      "departuretime": "11:00",
+      "pier": "3",
+      "ferry": "M/S Ruissalo",
+      "departure": "Kansanpuisto",
+      "destination": "Forum Marinum",
+      "arrivaltime": "11:30",
+      "ticket": "5,00"
+    },
+    {
+      "departuretime": "11:45",
+      "pier": "3",
+      "ferry": "M/S Jaarli",
+      "departure": "Kansanpuisto",
+      "destination": "Forum Marinum",
+      "arrivaltime": "12:15",
+      "ticket": "5,00"
+    },
+    {
+      "departuretime": "12:00",
+      "pier": "3",
+      "ferry": "M/S Lily,",
+      "departure": "Vepsä",
+      "destination": "Turku",
+      "arrivaltime": "13:00",
+      "ticket": "5,00"
+    },
+    {
+      "departuretime": "12:30",
+      "pier": "3",
+      "ferry": "M/S Ruissalo",
+      "departure": "Kansanpuisto",
+      "destination": "Forum Marinum",
+      "arrivaltime": "13:00",
+      "ticket": "5,00"
+    },
+    {
+      "departuretime": "13:15",
+      "pier": "3",
+      "ferry": "M/S Jaarli",
+      "departure": "Kansanpuisto",
+      "destination": "Forum Marinum",
+      "arrivaltime": "13:45",
+      "ticket": "5,00"
+    },
+    {
+      "departuretime": "14:00",
+      "pier": "3",
+      "ferry": "M/S Ruissalo",
+      "departure": "Kansanpuisto",
+      "destination": "Forum Marinum",
+      "arrivaltime": "14:30",
+      "ticket": "5,00"
+    },
+    {
+      "departuretime": "14:45",
+      "pier": "3",
+      "ferry": "M/S Jaarli",
+      "departure": "Kansanpuisto",
+      "destination": "Forum Marinum",
+      "arrivaltime": "15:15",
+      "ticket": "5,00"
+    },
+    {
+      "departuretime": "15:00",
+      "pier": "3",
+      "ferry": "M/S Lily,",
+      "departure": "Vepsä",
+      "destination": "Turku",
+      "arrivaltime": "16:00",
+      "ticket": "5,00"
+    },
+    {
+      "departuretime": "15:30",
+      "pier": "3",
+      "ferry": "M/S Ruissalo",
+      "departure": "Kansanpuisto",
+      "destination": "Forum Marinum",
+      "arrivaltime": "16:00",
+      "ticket": "5,00"
+    },
+    {
+      "departuretime": "16:15",
+      "pier": "3",
+      "ferry": "M/S Jaarli",
+      "departure": "Kansanpuisto",
+      "destination": "Forum Marinum",
+      "arrivaltime": "16:45",
+      "ticket": "5,00"
+    },
+    {
+      "departuretime": "17:00",
+      "pier": "3",
+      "ferry": "M/S Ruissalo",
+      "departure": "Kansanpuisto",
+      "destination": "Forum Marinum",
+      "arrivaltime": "17:25",
+      "ticket": "5,00"
+    },
+    {
+      "departuretime": "17:45",
+      "pier": "3",
+      "ferry": "M/S Jaarli",
+      "departure": "Kansanpuisto",
+      "destination": "Forum Marinum",
+      "arrivaltime": "18:15",
+      "ticket": "5,00"
+    },
+    {
+      "departuretime": "18:00",
+      "pier": "3",
+      "ferry": "M/S Lily,",
+      "departure": "Vepsä",
+      "destination": "Turku",
+      "arrivaltime": "19:00",
+      "ticket": "5,00"
+    },
+    {
+      "departuretime": "19:15",
+      "pier": "3",
+      "ferry": "M/S Jaarli",
+      "departure": "Kansanpuisto",
+      "destination": "Forum Marinum",
+      "arrivaltime": "19:45",
+      "ticket": "5,00"
+    }
+  ]
+}

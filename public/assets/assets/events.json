@@ -1,0 +1,284 @@
+{
+  "events": [
+    {
+      "date": "1.–4.7.2021",
+      "type": "Tapahtuman tyyppi",
+      "name": "Keskiaikaiset markkinat",
+      "place": "Vanha Suurtori",
+      "image": "images/testimage.png",
+      "info": "Tietoa tapahtumasta"
+    },
+    {
+      "date": "2.–4.7.2021",
+      "type": "Tapahtuman tyyppi",
+      "name": "Turun Tuomiopäivä",
+      "place": "Urheilupuiston yläkenttä",
+      "image": "images/testimage.png",
+      "info": "Tietoa tapahtumasta"
+    },
+    {
+      "date": "9.7.2021",
+      "type": "Tapahtuman tyyppi",
+      "name": "Sieravuori Sup Masters / Aurajoki SUP GP",
+      "place": "Tuomiokirkkosilta - Teatterisilta",
+      "image": "images/testimage.png",
+      "info": "Tietoa tapahtumasta"
+    },
+    {
+      "date": "15.–17.7.2021",
+      "type": "Tapahtuman tyyppi",
+      "name": "Ladies European Tour",
+      "place": "Aura Golf",
+      "image": "images/testimage.png",
+      "info": "Tietoa tapahtumasta"
+    },
+    {
+      "date": "15.–18.7.2021",
+      "type": "Tapahtuman tyyppi",
+      "name": "LieveILMIÖ Rettig",
+      "place": "Rettigin tehtaan sisäpiha",
+      "image": "images/testimage.png",
+      "info": "Tietoa tapahtumasta"
+    },
+    {
+      "date": "15.–18.7.2021",
+      "type": "Tapahtuman tyyppi",
+      "name": "Turun Linnan turnajaiset",
+      "place": "Linnanpuisto",
+      "image": "images/testimage.png",
+      "info": "Tietoa tapahtumasta"
+    },
+    {
+      "date": "21.–25.7.2021",
+      "type": "Tapahtuman tyyppi",
+      "name": "Swan European Regatta",
+      "place": "Aurajokiranta",
+      "image": "images/testimage.png",
+      "info": "Tietoa tapahtumasta"
+    },
+    {
+      "date": "26.7.–8.2021",
+      "type": "Tapahtuman tyyppi",
+      "name": "Vegånian ravintolaviikko",
+      "place": "Vanha Suurtori",
+      "image": "images/testimage.png",
+      "info": "Tietoa tapahtumasta"
+    },
+    {
+      "date": "29.–31.7.2021",
+      "type": "Tapahtuman tyyppi",
+      "name": "DBTL",
+      "place": "Tuomiokirkkotori ja Brahenpuisto",
+      "image": "images/testimage.png",
+      "info": "Tietoa tapahtumasta"
+    },
+    {
+      "date": "28.7.–1.8.2021",
+      "type": "Tapahtuman tyyppi",
+      "name": "Airisto Classic Regatta",
+      "place": "Ruissalon Telakka",
+      "image": "images/testimage.png",
+      "info": "Tietoa tapahtumasta"
+    },
+    {
+      "date": "30.−31.7.2021",
+      "type": "Tapahtuman tyyppi",
+      "name": "Archipelago Jazz / Turku Sea Jazz",
+      "place": "Ruissalon Telakka",
+      "image": "images/testimage.png",
+      "info": "Tietoa tapahtumasta"
+    },
+    {
+      "date": "30.−31.7.2021",
+      "type": "Tapahtuman tyyppi",
+      "name": "Country Club Festival",
+      "place": "RantaKerttu",
+      "image": "images/testimage.png",
+      "info": "Tietoa tapahtumasta"
+    },
+    {
+      "date": "30.7.–1.8.2021",
+      "type": "Tapahtuman tyyppi",
+      "name": "Aura Cup",
+      "place": "Kupittaan, Urheilupuiston, Parkin, Impivaaran, Kaarinan kentät",
+      "image": "images/testimage.png",
+      "info": "Tietoa tapahtumasta"
+    },
+    {
+      "date": "6.–7.8.2021",
+      "type": "Tapahtuman tyyppi",
+      "name": "Challenge Turku Triathlon",
+      "place": "Forum Marinumin alue",
+      "image": "images/testimage.png",
+      "info": "Tietoa tapahtumasta"
+    },
+    {
+      "date": "31.7.–1.8.2021",
+      "type": "Tapahtuman tyyppi",
+      "name": "Ølfest",
+      "place": "Vanha Suurtori",
+      "image": "images/testimage.png",
+      "info": "Tietoa tapahtumasta"
+    },
+    {
+      "date": "6.–8.8.2021",
+      "type": "Tapahtuman tyyppi",
+      "name": "Kesärauha",
+      "place": "Linnanpuisto",
+      "image": "images/testimage.png",
+      "info": "Tietoa tapahtumasta"
+    },
+    {
+      "date": "7.8.−18.8.2021",
+      "type": "Tapahtuman tyyppi",
+      "name": "Turun Musiikkijuhlat",
+      "place": "Useita tapahtumapaikkoja",
+      "image": "images/testimage.png",
+      "info": "Tietoa tapahtumasta"
+    },
+    {
+      "date": "8.8.2021",
+      "type": "Tapahtuman tyyppi",
+      "name": "Portsan pihamarkkinat",
+      "place": "Port Arthur",
+      "image": "images/testimage.png",
+      "info": "Tietoa tapahtumasta"
+    },
+    {
+      "date": "12.8.2021",
+      "type": "Tapahtuman tyyppi",
+      "name": "Taiteiden yö",
+      "place": "Useita tapahtumapaikkoja",
+      "image": "images/testimage.png",
+      "info": "Tietoa tapahtumasta"
+    },
+    {
+      "date": "12.–14.8.2021",
+      "type": "Tapahtuman tyyppi",
+      "name": "Suuret Oluet & Pienet Panimot",
+      "place": "Mannerheiminpuisto",
+      "image": "images/testimage.png",
+      "info": "Tietoa tapahtumasta"
+    },
+    {
+      "date": "13.−29.8.2021",
+      "type": "Tapahtuman tyyppi",
+      "name": "Huoneiden Kirja",
+      "place": "Turun Kivipainon talo",
+      "image": "images/testimage.png",
+      "info": "Tietoa tapahtumasta"
+    },
+    {
+      "date": "13.–14.8.2021",
+      "type": "Tapahtuman tyyppi",
+      "name": "Aura Fest",
+      "place": "Kupittaanpuisto",
+      "image": "images/testimage.png",
+      "info": "Tietoa tapahtumasta"
+    },
+    {
+      "date": "13.–15.8.2021",
+      "type": "Tapahtuman tyyppi",
+      "name": "Veneet Esillä",
+      "place": "Ruissalon Telakka",
+      "image": "images/testimage.png",
+      "info": "Tietoa tapahtumasta"
+    },
+    {
+      "date": "14.8.2021",
+      "type": "Tapahtuman tyyppi",
+      "name": "SeikkisFest",
+      "place": "Kupittaanpuisto",
+      "image": "images/testimage.png",
+      "info": "Tietoa tapahtumasta"
+    },
+    {
+      "date": "14.8.2021",
+      "type": "Tapahtuman tyyppi",
+      "name": "Yliopistonkadun katumarkkinat",
+      "place": "Yliopistonkadun kävelykatu",
+      "image": "images/testimage.png",
+      "info": "Tietoa tapahtumasta"
+    },
+    {
+      "date": "15.8.2021",
+      "type": "Tapahtuman tyyppi",
+      "name": "Concours d’Elegance",
+      "place": "Harjattulan kartano",
+      "image": "images/testimage.png",
+      "info": "Tietoa tapahtumasta"
+    },
+    {
+      "date": "15.8.2021",
+      "type": "Tapahtuman tyyppi",
+      "name": "Turku Touring Pyöräily",
+      "place": "Turku ja lähikunnat",
+      "image": "images/testimage.png",
+      "info": "Tietoa tapahtumasta"
+    },
+    {
+      "date": "18.–20.8.2021",
+      "type": "Tapahtuman tyyppi",
+      "name": "Aboagora",
+      "place": "Sibelius-museo",
+      "image": "images/testimage.png",
+      "info": "Tietoa tapahtumasta"
+    },
+    {
+      "date": "20.–21.8.2021",
+      "type": "Tapahtuman tyyppi",
+      "name": "Paavo Nurmi Marathon",
+      "place": "Teatterialue (Lähtö, maali)",
+      "image": "images/testimage.png",
+      "info": "Tietoa tapahtumasta"
+    },
+    {
+      "date": "24.–28.8.2021",
+      "type": "Tapahtuman tyyppi",
+      "name": "TFO:n Luontosinfonia",
+      "place": "Forum Marinumin piha-alue",
+      "image": "images/testimage.png",
+      "info": "Tietoa tapahtumasta"
+    },
+    {
+      "date": "25.–26.8.2021",
+      "type": "Tapahtuman tyyppi",
+      "name": "SHIFT 2021",
+      "place": "Hotel Kakola",
+      "image": "images/testimage.png",
+      "info": "Tietoa tapahtumasta"
+    },
+    {
+      "date": "25.–27.8.2021",
+      "type": "Tapahtuman tyyppi",
+      "name": "Eurooppa-foorumi",
+      "place": "Useita tapahtumapaikkoja",
+      "image": "images/testimage.png",
+      "info": "Tietoa tapahtumasta"
+    },
+    {
+      "date": "25.–29.8.2021",
+      "type": "Tapahtuman tyyppi",
+      "name": "TAFF - Turku animated film festival",
+      "place": "Manilla",
+      "image": "images/testimage.png",
+      "info": "Tietoa tapahtumasta"
+    },
+    {
+      "date": "26.8.2021",
+      "type": "Tapahtuman tyyppi",
+      "name": "Itämeripäivä Turussa",
+      "place": "Useita tapahtumapaikkoja",
+      "image": "images/testimage.png",
+      "info": "Tietoa tapahtumasta"
+    },
+    {
+      "date": "26.8.2021",
+      "type": "Tapahtuman tyyppi",
+      "name": "BMX Racing Suomi Cup",
+      "place": "Turku BMX-park Kupittaa",
+      "image": "images/testimage.png",
+      "info": "Tietoa tapahtumasta"
+    }
+  ]
+}

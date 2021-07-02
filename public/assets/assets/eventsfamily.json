@@ -1,0 +1,28 @@
+{
+  "events": [
+    {
+      "date": "14.8.2021",
+      "type": "Tapahtuman tyyppi",
+      "name": "Yliopistonkadun katumarkkinat",
+      "place": "Yliopistonkadun kävelykatu",
+      "image": "images/testimage.png",
+      "info": "Tietoa tapahtumasta"
+    },
+    {
+      "date": "15.8.2021",
+      "type": "Tapahtuman tyyppi",
+      "name": "Concours d’Elegance",
+      "place": "Harjattulan kartano",
+      "image": "images/testimage.png",
+      "info": "Tietoa tapahtumasta"
+    },
+    {
+      "date": "18.8.2021",
+      "type": "Tapahtuma kakaroille",
+      "name": "Turku Touring Pyöräily",
+      "place": "Turku ja lähikunnat",
+      "image": "images/testimage.png",
+      "info": "Tietoa tapahtumasta"
+    }
+  ]
+}
