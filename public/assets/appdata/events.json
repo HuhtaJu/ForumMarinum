@@ -14,7 +14,7 @@
       "name": "Turun Tuomiopäivä",
       "place": "Urheilupuiston yläkenttä",
       "image": "eventImages/placeholderimage.png",
-      "info": "Tietoa tapahtumasta"
+      "info": "Turun Urheilupuiston Yläkenttä (Paavo Nurmen puistotie 11) ja  Samppalinnan maauimala (Volter Kilven katu 2) sijaitsevat vain parinsadan metrin etäisyydellä toisistaan. Yläkentälle ja Samppalinnan maauimalaan pääsee helposti Jokirannasta tultaessa Kaupunginteatterin takaa Neitsytpolulta. Samppalinnankadulla on pieni parkkipaikka-alue, ja muutoin kadunvarsipaikkoja löytyy ympäröiviltä teiltä. Suosittelemme tulemaan paikalle julkisilla kulkuvälineillä, pyöräillen tai jalan. Kaikki kisalokaatiot sijaitsevat alle 20 minuutin kävelymatkan päässä Turun kauppatorilta, aivan Jokirannan tuntumassa."
     },
     {
       "date": "9.7.2021",
@@ -22,7 +22,7 @@
       "name": "Sieravuori Sup Masters / Aurajoki SUP GP",
       "place": "Tuomiokirkkosilta - Teatterisilta",
       "image": "eventImages/placeholderimage.png",
-      "info": "Tietoa tapahtumasta"
+      "info": "SUP sprinttikilpailu Aurajoessa yhteistyössä Amazing Aurajoki SUP - tapahtuman kanssa.\nLähtöalue ja laskuliuska Kaupungintalon alapuolella, ravintolalaiva Donnaa vastapäätä. Autot pitää siirtää laskun jälkeen pois.\nSarjat: Miehet ja Naiset\nRata: Slalomrata Aura- ja Myllysiltojen välissä\nOsallistumismaksu: 20€ käteisellä paikanpäällä"
     },
     {
       "date": "15.–17.7.2021",
@@ -67,10 +67,10 @@
     {
       "date": "29.–31.7.2021",
       "type": "Tapahtuman tyyppi",
-      "name": "DBTL",
+      "name": "DOWN BY THE LAITURI",
       "place": "Tuomiokirkkotori ja Brahenpuisto",
-      "image": "eventImages/placeholderimage.png",
-      "info": "Tietoa tapahtumasta"
+      "image": "eventImages/dbtl.jpeg",
+      "info": "Down By The Laituri -kaupunkifestivaali kasvaa ja kehittyy! Tuomiokirkkotorin kulttuurihistorialliselle alueelle rakentuvat entistäkin laadukkaammat ja korkeatasoisemmat puitteet, joissa paikalle saapuvan yleisön on mahdollista viettää rentoja ja musiikin täyteisiä festivaalipäiviä. Artistikattaus on monipuolinen ja nimekäs. Lisäksi tarjolla on huippulaadukkaat ravintolapalvelut ja esillä mielenkiintoista taidetta."
     },
     {
       "date": "28.7.–1.8.2021",
@@ -78,7 +78,7 @@
       "name": "Airisto Classic Regatta",
       "place": "Ruissalon Telakka",
       "image": "eventImages/placeholderimage.png",
-      "info": "Tietoa tapahtumasta"
+      "info": "Baltic Classic Masters -kilpailusarjaan kuuluva Airisto Classic Regatta järjestetään jälleen 28.7.–1.8.2021. Regattasatama sijaitsee tänäkin vuonna Ruissalon Telakalla."
     },
     {
       "date": "30.−31.7.2021",
@@ -94,7 +94,7 @@
       "name": "Country Club Festival",
       "place": "RantaKerttu",
       "image": "eventImages/placeholderimage.png",
-      "info": "Tietoa tapahtumasta"
+      "info": "Grasshammer Deluxe -yhtyeen isännöimä kantriin, folkiin, bluesiin ja muuhun juurimusiikkiin keskittynyt klubi-ilta sekä kesäfestivaali. Ilmaistapahtuma jonka tavoitteena levittää juurimusiikin ilosanomaa."
     },
     {
       "date": "30.7.–1.8.2021",
@@ -102,7 +102,7 @@
       "name": "Aura Cup",
       "place": "Kupittaan, Urheilupuiston, Parkin, Impivaaran, Kaarinan kentät",
       "image": "eventImages/placeholderimage.png",
-      "info": "Tietoa tapahtumasta"
+      "info": "Jo 17 kertaa järjestetty Aura Cup jouduttiin viime vuonna peruuttamaan, vallitsevan epidemian vuoksi. Tänä vuonna olemme toiveikkaita, että turnaus voidaan järjestää, ja jotta voimme pitää tapahtuman mahdollisimman turvallisena, järjestetään turnaukseen vain kotimaisten joukkueiden kesken. Turnaus pelataan Kupittaan Urheilupuiston nurmi- ja tekonurminkentillä, Turun Urheiliupuiston Yläkentällä sekä Parkin kentällä. Kaikilla kentillä on samat palvelut ja kenttien välillä kulkee shuttle bussi, joka kuuluu majoituspaketin hintaan. Bussit kulkevat hotellien, kenttien ja lounaspaikan välillä säännöllisesti."
     },
     {
       "date": "6.–7.8.2021",
@@ -110,7 +110,7 @@
       "name": "Challenge Turku Triathlon",
       "place": "Forum Marinumin alue",
       "image": "eventImages/placeholderimage.png",
-      "info": "Tietoa tapahtumasta"
+      "info": "Triathlonin kilpailutarjonta on Suomessa monipuolista ja kesä-elokuussa kilpailukalenterista löytyy lähes joka viikonlopulle eripituisia kilpailutapahtumia. Suomen Triathlonliitto ylläpitää tapahtumakalenteria, josta löydät tarkempia tietoja kilpailuista."
     },
     {
       "date": "31.7.–1.8.2021",
@@ -142,7 +142,7 @@
       "name": "Portsan pihamarkkinat",
       "place": "Port Arthur",
       "image": "eventImages/placeholderimage.png",
-      "info": "Tietoa tapahtumasta"
+      "info": "Portsan Pihamarkkinat levittäytyvät jälleen lähes koko Portsan alueelle Turussa. Sunnuntaina 9.8.2020 kello 11–16 pääsee noin 40 pihalle ihastelemaan Portsan ilmapiiriä ja tekemään samalla löytöjä.\nTarjolla on myytävää hellahuoneiden kätköistä, pienistä aarteista ja käsitöistä aina asuntoihin. Mukana on myös muutama alueen yritys."
     },
     {
       "date": "12.8.2021",
@@ -182,7 +182,7 @@
       "name": "Veneet Esillä",
       "place": "Ruissalon Telakka",
       "image": "eventImages/placeholderimage.png",
-      "info": "Tietoa tapahtumasta"
+      "info": "Veneet Esillä on Suomen suurin käytettyjen veneiden myyntitapahtuma. Uudistettu Veneet Esillä-tapahtuma järjestetään Ruissalon upealla tapahtumatelakalla."
     },
     {
       "date": "14.8.2021",
@@ -190,7 +190,7 @@
       "name": "SeikkisFest",
       "place": "Kupittaanpuisto",
       "image": "eventImages/placeholderimage.png",
-      "info": "Tietoa tapahtumasta"
+      "info": "Elokuussa juhlitaan ensimmäistä Seikkisfestiä. Tapahtuma järjestetään 14.8.2021 klo 9.30- 11.30 Pyhän Henrikin aukiolla Kupittaan puistossa, Aura Festin yhteydessä. Lavalla nähdään Prinsessa Pikkiriikki ja astetta paremmat loilotukset sekä Biolapset. Koko perheen tapahtuma on päihteetön ja maksuton. Tapahtuman järjestää Lastenkulttuurikeskus Seikkailupuisto yhteistyössä Aura Festin kanssa."
     },
     {
       "date": "14.8.2021",
@@ -198,7 +198,7 @@
       "name": "Yliopistonkadun katumarkkinat",
       "place": "Yliopistonkadun kävelykatu",
       "image": "eventImages/placeholderimage.png",
-      "info": "Tietoa tapahtumasta"
+      "info": "Yliopistonkadun katumarkkinat palaavat Turun keskustaan lähes 15 vuoden tauon jälkeen. Markkina-alueena toimii Yliopistonkatu (Humalistonkadun risteyksestä Kauppatorille). Kauppaa käydään lauantaina 10.8.2019 klo 10-17."
     },
     {
       "date": "15.8.2021",
@@ -206,7 +206,7 @@
       "name": "Concours d’Elegance",
       "place": "Harjattulan kartano",
       "image": "eventImages/placeholderimage.png",
-      "info": "Tietoa tapahtumasta"
+      "info": "Sunnuntaina 16. kesäkuuta järjestetään korkeatasoinen ja poikkeuksellisen tyylikäs klassikkoautonäyttely Concours d’Elegance, jonka näyttämönä toimii Turun Kakskerrassa sijaitseva Harjattulan kartanon ympäristö. Yleisölle ilmainen tapahtuma alkaa kello 10 ja kauniiden autojen lisäksi osallistujien näköhermoa kutkutellaan korkeatasoisella ohjelmalla. Stylefellow toimii tapahtuman yhteistyökumppanina."
     },
     {
       "date": "15.8.2021",
@@ -214,7 +214,7 @@
       "name": "Turku Touring Pyöräily",
       "place": "Turku ja lähikunnat",
       "image": "eventImages/placeholderimage.png",
-      "info": "Tietoa tapahtumasta"
+      "info": "Koko perheen reipas ja hyväntuulinen liikuntatapahtuma Turku Touring Pyöräily poljetaan seuraavan kerran 15.8.2021. Osallistuminen ei edellytä huippuvarusteita, joten voit ilmoittautua mukaan melkeinpä millaisella pyörällä tahansa. Ainoastaan pyöräilykypärä on pakollinen varuste. Tarkat reitit, matkat ja ilmoittautumisohjeet julkaistaan keväällä 2021."
     },
     {
       "date": "18.–20.8.2021",
@@ -222,7 +222,7 @@
       "name": "Aboagora",
       "place": "Sibelius-museo",
       "image": "eventImages/placeholderimage.png",
-      "info": "Tietoa tapahtumasta"
+      "info": "Monitieteinen ja -taiteinen ABOAGORA on vuosittain järjestettävä kansainvälinen tapahtuma, joka edistää tieteiden ja taiteiden välistä vuoropuhelua. Tänä vuonna teemana on Tuli."
     },
     {
       "date": "20.–21.8.2021",
@@ -230,7 +230,7 @@
       "name": "Paavo Nurmi Marathon",
       "place": "Teatterialue (Lähtö, maali)",
       "image": "eventImages/placeholderimage.png",
-      "info": "Tietoa tapahtumasta"
+      "info": "Perjantaina 20. elokuuta juostaan vitonen ja kymppi Turun kaupungin sykkeessä ja Aurajoen rantamaisemissa! Lähde sinäkin mukaan kesän kuumimpaan tapahtumaan! Paavo Nurmi Marathon on enemmän >> vitonen, kymppi, puolimaraton ja maraton!"
     },
     {
       "date": "24.–28.8.2021",
@@ -246,7 +246,7 @@
       "name": "SHIFT 2021",
       "place": "Hotel Kakola",
       "image": "eventImages/placeholderimage.png",
-      "info": "Tietoa tapahtumasta"
+      "info": "SHIFT 2021 järjestetään tuttuun tapaan Turussa ja vuoden 2020 oppeja ja konseptia soveltaen. Merkitse jo päivät kalenteriisi!"
     },
     {
       "date": "25.–27.8.2021",
@@ -254,7 +254,7 @@
       "name": "Eurooppa-foorumi",
       "place": "Useita tapahtumapaikkoja",
       "image": "eventImages/placeholderimage.png",
-      "info": "Tietoa tapahtumasta"
+      "info": "Eurooppa-foorumi tarjoaa ajankohtaista EU-tietoa ja edistää avointa, tutkittuun tietoon perustuvaa laajaa keskustelua kansalaisten ja päättäjien kesken. Foorumissa tapaavat ihmiset elämän eri osa-alueilta: eri näkemyksiä edustavat poliittiset päättäjät, kansalaisjärjestöt, elinkeinoelämä, työmarkkinajärjestöt, asiantuntijat ja kansalaiset. Vuoden 2021 foorumi järjestetään 25.–27.8. – Tervetuloa mukaan!"
     },
     {
       "date": "25.–29.8.2021",
@@ -278,7 +278,7 @@
       "name": "BMX Racing Suomi Cup",
       "place": "Turku BMX-park Kupittaa",
       "image": "eventImages/placeholderimage.png",
-      "info": "Tietoa tapahtumasta"
+      "info": "BMX-racing on BMX-polkupyörillä ajettava kilpailulaji, joka on vuodesta 2008 kuulunut olympiakisalajeihin. Racing-radat ovat kopioita motocross-radoista, mutta pyörille sopivammassa, pienemmässä muodossa. Näillä radoilla ajetaan aikaa ja toisia kilpailijoita vastaan, eikä tehdä temppuja."
     }
   ]
 }
