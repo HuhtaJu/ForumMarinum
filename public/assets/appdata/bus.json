@@ -1,145 +1,223 @@
 {
   "bus": [
     {
-      "departuretime": "10:00",
+      "departuretime": "04:47",
       "stop": "Forum Marinum",
       "line": "1",
       "destination": "Lentoasema"
     },
     {
-      "departuretime": "10:15",
+      "departuretime": "05:27",
       "stop": "Forum Marinum",
       "line": "1",
       "destination": "Lentoasema"
     },
     {
-      "departuretime": "10:30",
+      "departuretime": "05:42",
       "stop": "Forum Marinum",
       "line": "1",
       "destination": "Lentoasema"
     },
     {
-      "departuretime": "10:45",
+      "departuretime": "05:42",
       "stop": "Forum Marinum",
       "line": "1",
       "destination": "Lentoasema"
     },
     {
-      "departuretime": "11:00",
+      "departuretime": "05:57",
       "stop": "Forum Marinum",
       "line": "1",
       "destination": "Lentoasema"
     },
     {
-      "departuretime": "11:15",
+      "departuretime": "06:12",
       "stop": "Forum Marinum",
       "line": "1",
       "destination": "Lentoasema"
     },
     {
-      "departuretime": "11:30",
+      "departuretime": "06:32",
       "stop": "Forum Marinum",
       "line": "1",
       "destination": "Lentoasema"
     },
     {
-      "departuretime": "11:45",
+      "departuretime": "06:47",
       "stop": "Forum Marinum",
       "line": "1",
       "destination": "Lentoasema"
     },
     {
-      "departuretime": "12:00",
+      "departuretime": "07:03",
       "stop": "Forum Marinum",
       "line": "1",
       "destination": "Lentoasema"
     },
     {
-      "departuretime": "12:15",
+      "departuretime": "07:18",
       "stop": "Forum Marinum",
       "line": "1",
       "destination": "Lentoasema"
     },
     {
-      "departuretime": "12:30",
+      "departuretime": "07:33",
       "stop": "Forum Marinum",
       "line": "1",
       "destination": "Lentoasema"
     },
     {
-      "departuretime": "12:45",
+      "departuretime": "07:48",
       "stop": "Forum Marinum",
       "line": "1",
       "destination": "Lentoasema"
     },
     {
-      "departuretime": "13:00",
+      "departuretime": "08:03",
       "stop": "Forum Marinum",
       "line": "1",
       "destination": "Lentoasema"
     },
     {
-      "departuretime": "13:15",
+      "departuretime": "08:18",
       "stop": "Forum Marinum",
       "line": "1",
       "destination": "Lentoasema"
     },
     {
-      "departuretime": "13:30",
+      "departuretime": "08:33",
       "stop": "Forum Marinum",
       "line": "1",
       "destination": "Lentoasema"
     },
     {
-      "departuretime": "13:45",
+      "departuretime": "08:48",
+      "stop": "Forum Marinum",
+      "line": "1",
+      "destination": "Lentoasema"
+    },
+
+
+    {
+      "departuretime": "09:03",
       "stop": "Forum Marinum",
       "line": "1",
       "destination": "Lentoasema"
     },
     {
-      "departuretime": "14:00",
+      "departuretime": "09:18",
       "stop": "Forum Marinum",
       "line": "1",
       "destination": "Lentoasema"
     },
     {
-      "departuretime": "14:15",
+      "departuretime": "09:33",
       "stop": "Forum Marinum",
       "line": "1",
       "destination": "Lentoasema"
     },
     {
-      "departuretime": "14:30",
+      "departuretime": "09:48",
+      "stop": "Forum Marinum",
+      "line": "1",
+      "destination": "Lentoasema"
+    },
+
+    {
+      "departuretime": "10:03",
       "stop": "Forum Marinum",
       "line": "1",
       "destination": "Lentoasema"
     },
     {
-      "departuretime": "14:45",
+      "departuretime": "10:18",
       "stop": "Forum Marinum",
       "line": "1",
       "destination": "Lentoasema"
     },
     {
-      "departuretime": "15:00",
+      "departuretime": "10:33",
       "stop": "Forum Marinum",
       "line": "1",
       "destination": "Lentoasema"
     },
     {
-      "departuretime": "15:15",
+      "departuretime": "10:48",
+      "stop": "Forum Marinum",
+      "line": "1",
+      "destination": "Lentoasema"
+    },
+
+    {
+      "departuretime": "11:03",
       "stop": "Forum Marinum",
       "line": "1",
       "destination": "Lentoasema"
     },
     {
-      "departuretime": "15:30",
+      "departuretime": "11:18",
       "stop": "Forum Marinum",
       "line": "1",
       "destination": "Lentoasema"
     },
     {
-      "departuretime": "15:45",
+      "departuretime": "11:33",
+      "stop": "Forum Marinum",
+      "line": "1",
+      "destination": "Lentoasema"
+    },
+    {
+      "departuretime": "11:48",
+      "stop": "Forum Marinum",
+      "line": "1",
+      "destination": "Lentoasema"
+    },
+
+    {
+      "departuretime": "12:03",
+      "stop": "Forum Marinum",
+      "line": "1",
+      "destination": "Lentoasema"
+    },
+    {
+      "departuretime": "12:18",
+      "stop": "Forum Marinum",
+      "line": "1",
+      "destination": "Lentoasema"
+    },
+    {
+      "departuretime": "12:33",
+      "stop": "Forum Marinum",
+      "line": "1",
+      "destination": "Lentoasema"
+    },
+    {
+      "departuretime": "12:48",
+      "stop": "Forum Marinum",
+      "line": "1",
+      "destination": "Lentoasema"
+    },
+
+    {
+      "departuretime": "08:03",
+      "stop": "Forum Marinum",
+      "line": "1",
+      "destination": "Lentoasema"
+    },
+    {
+      "departuretime": "08:18",
+      "stop": "Forum Marinum",
+      "line": "1",
+      "destination": "Lentoasema"
+    },
+    {
+      "departuretime": "08:33",
+      "stop": "Forum Marinum",
+      "line": "1",
+      "destination": "Lentoasema"
+    },
+    {
+      "departuretime": "08:48",
       "stop": "Forum Marinum",
       "line": "1",
       "destination": "Lentoasema"
