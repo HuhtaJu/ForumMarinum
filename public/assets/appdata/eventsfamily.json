@@ -1,68 +1,74 @@
 {
   "events": [
-    {
-      "date": "1.–4.7.2021",
-      "type": "Tapahtuman tyyppi",
-      "name": "Keskiaikaiset markkinat",
-      "place": "Vanha Suurtori",
-      "image": "eventImages/keskiaika.jpeg",
-      "info": "Keskiaikaiset markkinat on Turun Vanhalla Suurtorilla järjestettävä Suomen suurin keskiaika- ja muinaistapahtuma. Vuonna 2021 tapahtuma järjestetään tavallisuudesta poikkeavalla tavalla, mutta siitä huolimatta tänäkin vuonna ohjelmassa yhdistyvät tiede, taide ja hauskanpito uusia oivalluksia synnyttävällä tavalla. Musikanttien laulun luritus sekä hauskat ja riehakkaat huvitukset johdattavat koko perheen kohti keskiaikaista Turkua. Paikan päällä nähtävää ohjelmaa täydentävät markkinamyyjien virtuaalitori ja runsas verkko-ohjelma, joka on vapaasti kaikkien seurattavissa. Paikan päällä tapahtuva ohjelma on keskitetty Vanhan Suurtorin sijaan Brinkkalan ja Teinin sisäpihoille."
-    },
-    {
-      "date": "15.–18.7.2021",
-      "type": "Tapahtuman tyyppi",
-      "name": "LieveILMIÖ Rettig",
-      "place": "Rettigin tehtaan sisäpiha",
-      "image": "eventImages/lieve.png",
-      "info": "Uusi minifestivaali LieveILMIÖ järjestetään Rettigin vanhan tupakkatehtaan sisäpihalla 15.–18.7.2021. Rettigin tupakkatehtaan miljöö tarjoaa upeat puitteet uudelle kaupunkitapahtumalle ja avaa yleisölle aiemmin suljetun sopukan Turun vanhakaupungin sydämessä. Festivaalin ja pihajuhlien tunnelmaa yhdistelevä tapahtuma tarjoilee neljän päivän aikana ILMIÖ-festivaalille ominaiseen tapaan mielenkiintoista vaihtoehtomusiikkia ja monitaidetta terävällä otteella."
-    },
+      {
+        "date": "15.–18.7.2021",
+        "type": "Tapahtuman tyyppi",
+        "name": "LieveILMIÖ Rettig",
+        "place": "Rettigin tehtaan sisäpiha",
+        "image": "eventImages/lieve.png",
+        "fi": "Uusi minifestivaali LieveILMIÖ järjestetään Rettigin vanhan tupakkatehtaan sisäpihalla 15.–18.7.2021. Rettigin tupakkatehtaan miljöö tarjoaa upeat puitteet uudelle kaupunkitapahtumalle ja avaa yleisölle aiemmin suljetun sopukan Turun vanhakaupungin sydämessä. Festivaalin ja pihajuhlien tunnelmaa yhdistelevä tapahtuma tarjoilee neljän päivän aikana ILMIÖ-festivaalille ominaiseen tapaan mielenkiintoista vaihtoehtomusiikkia ja monitaidetta terävällä otteella.",
+        "sv": "Den nya minifestivalen LieveILMIÖ arrangeras på innergården i den gamla tobaksfabriken 15–18/7 2021. Tobaksfabriksmiljön ger en fantastisk inramning till det nya stadsevenemanget och öppnar tidigare stängda vrår för allmänheten i hjärtat av gamla stan i Åbo. Evenemanget, som förenar festivalstämning med en gemytlig gårdsfestkänsla, bjuder under fyra dagar på sedvanligt sätt för ILMIÖ-festivalen på intressant alternativ musik och allkonst med ett skarpt grepp.",
+        "en": "The new mini-festival LieveILMIÖ will be held in the courtyard of the Rettig factory from 15th-18th July 2021. The atmosphere of the old Rettig tobacco factory provides a wonderful setting for a new city event and gives the public access to a previously unfamiliar corner at the heart of Turku's old town. Combining a festival and garden party atmosphere, the event serves up four days of interesting alternative music and a range of thought-provoking art, as is typical of the well-known ILMIÖ festival."
+      },
     {
       "date": "15.–18.7.2021",
       "type": "Tapahtuman tyyppi",
       "name": "Turun Linnan turnajaiset",
       "place": "Linnanpuisto",
       "image": "eventImages/turnajaiset.jpeg",
-      "info": "Näyttävien taistelulajien sikermä saapuu Turkuun jo kuudetta kertaa avoimen mestaruuskilpailun muodossa 15.–18.7. upeissa puitteissa historiallisella Turun linnalla. Kilpailijoita hevosineen saapuu ympäri maailman kisaamaan voitosta. Kilpailulajeina ovat myös pitkämiekka ja buhurt, ja samassa yhteydessä käydään lajien suomenmestaruuskisat. Kilpailun ajaksi linna herää täyteen eloon teemoitettujen kierrosten ja mahtavan ohjelman myötä. Alueelle nousee ajan henkeen sopivien myyjien alue, josta varmasti löytyy jokaiselle jotakin. Myös monenmoista ajan henkeen sopivaa ruokaa on tarjolla nälkäisille kilpailuvieraille alueella. Taistelualueelle ja markkina-alueelle on yleisöllä vapaa pääsy."
+      "fi": "Näyttävien taistelulajien sikermä saapuu Turkuun jo kuudetta kertaa avoimen mestaruuskilpailun muodossa 15.–18.7. upeissa puitteissa historiallisella Turun linnalla. Kilpailijoita hevosineen saapuu ympäri maailman kisaamaan voitosta. Kilpailulajeina ovat myös pitkämiekka ja buhurt, ja samassa yhteydessä käydään lajien suomenmestaruuskisat. Kilpailun ajaksi linna herää täyteen eloon teemoitettujen kierrosten ja mahtavan ohjelman myötä. Alueelle nousee ajan henkeen sopivien myyjien alue, josta varmasti löytyy jokaiselle jotakin. Myös monenmoista ajan henkeen sopivaa ruokaa on tarjolla nälkäisille kilpailuvieraille alueella. Taistelualueelle ja markkina-alueelle on yleisöllä vapaa pääsy.",
+      "sv": "Tornerspelen bjuder på riktiga tävlingar i flera historiska kampgrenar, samtidigt på en och samma plats. Det har inte hänt i Europa sedan långt tillbaka i tiden. Kämpar i tungt harnesk strider mot varandra, både till häst och till fots i olika grenar under. Ett antal imponerande och praktfulla grenar visas nu för sjätte gången, som äger rum i den fantastiska historiska miljön vid Åbo slott. Hela slottet vaknar till liv under tornerspelen, med marknad och guidade temarundturer. Inträdet är fritt till tornerspelsområdet och till marknaden.",
+      "en": "Heavily armored warriors will go head-to-head with one another throughout the week, challenging each other on horse and on foot over several disciplines. This highly impressive array of skills are now available for the sixth time, taking place within the magnificent and historical setting of Turku Castle. During the competition the castle will come fully to life with a special market and themed tours. The combat zone and the market area are open to free to the public."
     },
-    {
-      "date": "21.–25.7.2021",
-      "type": "Tapahtuman tyyppi",
-      "name": "Swan European Regatta",
-      "place": "Aurajokiranta",
-      "image": "eventImages/swan.png",
-      "info": "Aurajoen rannoille kannattaa hakeutua 21.–25.7., sillä silloin Turussa voi aistia todellista purjehduskilpailun tunnelmaa, kun Swan purjeveneet kerääntyvät kilpailemaan nopeudestaan. Swan on nimensä mukaisesti purjeveneiden joutsen, ja samalla suomalaisen veneenrakennustaidon ylpeydenaihe. Pietarsaaressa Nautorin veneveistämössä valmistetaan ylväitä ja ylellisiä kaunottaria, jotka tunnetaan kaikkialla maailmassa. Swan Regatta kokoaa Euroopan Swaneja yhteen kilpailemaan joka toinen vuosi, ja tänä vuonna Turku isännöi kilpailua."
-    },
+{
+  "date": "21.–25.7.2021",
+  "type": "Tapahtuman tyyppi",
+  "name": "Swan European Regatta",
+  "place": "Aurajokiranta",
+  "image": "eventImages/swan.png",
+  "fi": "Aurajoen rannoille kannattaa hakeutua 21.–25.7., sillä silloin Turussa voi aistia todellista purjehduskilpailun tunnelmaa, kun Swan purjeveneet kerääntyvät kilpailemaan nopeudestaan. Swan on nimensä mukaisesti purjeveneiden joutsen, ja samalla suomalaisen veneenrakennustaidon ylpeydenaihe. Pietarsaaressa Nautorin veneveistämössä valmistetaan ylväitä ja ylellisiä kaunottaria, jotka tunnetaan kaikkialla maailmassa. Swan Regatta kokoaa Euroopan Swaneja yhteen kilpailemaan joka toinen vuosi, ja tänä vuonna Turku isännöi kilpailua.",
+  "sv": "",
+  "en": "It’s worth flocking down to the shores of the River Aura from July 21st-25th to experience the atmosphere of a real sailing competition, when the Swan sailboats gather in Turku to compete and show off their speed. As the name implies, the model is the Swan of sailboats, and holds a place of pride in Finland for its boatbuilding skills. The Nautor boatyard in Pietarsaari is known all over the world for proudly producing luxurious beauties. The Swan Regatta brings together the Swans of Europe to compete every other year, and this year Turku is the host for the competition."
+},
     {
       "date": "26.7.–8.2021",
       "type": "Tapahtuman tyyppi",
       "name": "Vegånian ravintolaviikko",
       "place": "Vanha Suurtori",
       "image": "eventImages/vegania.jpeg",
-      "info": "Turun Vanhalla Suurtorilla kuhisee 6.–7.8., kun Suomen ensimmäinen vegaaninen katuruokatapahtuma Vegånia tutustuttaa hyvän mielen ruokaan. Vegånia tarjoaa vegaanista ruokaa kaikille, olipa sitten kyseessä sekaani tai vegaani. Ruokatorille on vapaa pääsy. Tule nauttimaan tunnelmasta! Tapahtuma järjestetään yhdessä Ølfestin kanssa."
+      "fi": "Turun Vanhalla Suurtorilla kuhisee 6.–7.8., kun Suomen ensimmäinen vegaaninen katuruokatapahtuma Vegånia tutustuttaa hyvän mielen ruokaan. Vegånia tarjoaa vegaanista ruokaa kaikille, olipa sitten kyseessä sekaani tai vegaani. Ruokatorille on vapaa pääsy. Tule nauttimaan tunnelmasta! Tapahtuma järjestetään yhdessä Ølfestin kanssa.",
+      "sv": "",
+      "en": "Turku's Great Old Square will be buzzing from 26th July to 8th August, when Finland's first vegan street food event, Vegånia, introduces food that makes you feel good. Vegånia offers vegan food to suit everyone, whether you’re vegan or not. Access to the food market is free so come and enjoy the atmosphere! The event is organised in cooperation with Ølfest."
     },
-    {
-      "date": "29.–31.7.2021",
-      "type": "Tapahtuman tyyppi",
-      "name": "DOWN BY THE LAITURI",
-      "place": "Tuomiokirkkotori ja Brahenpuisto",
-      "image": "eventImages/dbtl.jpeg",
-      "info": "Down By The Laituri -kaupunkifestivaali kasvaa ja kehittyy! Tuomiokirkkotorin kulttuurihistorialliselle alueelle rakentuvat entistäkin laadukkaammat ja korkeatasoisemmat puitteet, joissa paikalle saapuvan yleisön on mahdollista viettää rentoja ja musiikin täyteisiä festivaalipäiviä. Artistikattaus on monipuolinen ja nimekäs. Lisäksi tarjolla on huippulaadukkaat ravintolapalvelut ja esillä mielenkiintoista taidetta."
-    },
-    {
-      "date": "30.−31.7.2021",
-      "type": "Tapahtuman tyyppi",
-      "name": "Archipelago Jazz / Turku Sea Jazz",
-      "place": "Ruissalon Telakka",
-      "image": "eventImages/jazz.jpeg",
-      "info": "Archipelago Sea Jazz on ainutlaatuinen neljän festivaalin sarja, joka kutsuu saariston intiimiin tunnelmaan ja huippumusiikin pariin kesällä 2021. Merellinen festivaalikokonaisuus kokoaa jazzin ystävät tunnelmoimaan Kemiönsaareen, Korppooseen, Turun Ruissalon Telakalle sekä Maarianhaminaan. Maailmanluokan jazzia sekä saariston romantiikkaa: sitä on Archipelago Sea Jazz."
-    },
+      {
+        "date": "29.–31.7.2021",
+        "type": "Tapahtuman tyyppi",
+        "name": "DOWN BY THE LAITURI",
+        "place": "Tuomiokirkkotori ja Brahenpuisto",
+        "image": "eventImages/dbtl.jpeg",
+        "fi": "Down By The Laituri -kaupunkifestivaali kasvaa ja kehittyy! Tuomiokirkkotorin kulttuurihistorialliselle alueelle rakentuvat entistäkin laadukkaammat ja korkeatasoisemmat puitteet, joissa paikalle saapuvan yleisön on mahdollista viettää rentoja ja musiikin täyteisiä festivaalipäiviä. Artistikattaus on monipuolinen ja nimekäs. Lisäksi tarjolla on huippulaadukkaat ravintolapalvelut ja esillä mielenkiintoista taidetta.",
+        "sv": "Stadsfestivalen down By The Laituri växer och utvecklas! I det historiska området kring Domkyrkotorget byggs det upp en inramning av ännu högre klass där besökarna kan njuta av avkopplande festivaldagar fyllda av musik. Det kommer att finnas ett mångsidigt och namnkunnigt utbud av artister. Dessutom bjuder restaurangerna på god mat i toppklass och det visas intressant konst.",
+        "en": "The Down By The Laituri city festival continues to grow and evolve! The cultural and historical surroundings of the Cathedral Square raise the bar to an entirely new level, where audiences can arrive to a relaxed vibe and three festive days full of music. The diverse line-up for the event is packed with renowned artists. In addition, the festival offers top-quality restaurant services and fascinating art."
+      },
+      {
+     "date": "30.−31.7.2021",
+        "type": "Tapahtuman tyyppi",
+        "name": "Archipelago Jazz / Turku Sea Jazz",
+        "place": "Ruissalon Telakka",
+        "image": "eventImages/jazz.jpeg",
+        "fi": "Archipelago Sea Jazz on ainutlaatuinen neljän festivaalin sarja, joka kutsuu saariston intiimiin tunnelmaan ja huippumusiikin pariin kesällä 2021. Merellinen festivaalikokonaisuus kokoaa jazzin ystävät tunnelmoimaan Kemiönsaareen, Korppooseen, Turun Ruissalon Telakalle sekä Maarianhaminaan. Maailmanluokan jazzia sekä saariston romantiikkaa: sitä on Archipelago Sea Jazz.",
+        "sv": "Archipelago Sea Jazz är en unik festivalserie, vars fyra evenemang bjuder på toppmusik och skärgårdsstämning sommaren 2021. Festivalerna lockar jazzfolket att njuta av den havsnära atmosfären i Dalsbruk, Korpo, Runsala varv i Åbo och i Mariehamn. Jazz i världsklass och skärgårdens särskilda stämning: detta är Archipelago Sea Jazz.",
+        "en": "Archipelago Sea Jazz is a unique series of four festivals that invite you to embrace the intimate archipelago atmosphere and top music during the summer of 2021. The collection of seaside festivals brings jazz enthusiasts together on Kimito Island, in Korpo, to the Ruissalo Boatyard in Turku and Mariehamn in Åland. World class jazz and the romance of the archipelago: this is Archipelago Sea Jazz."
+      },
     {
       "date": "30.7.–1.8.2021",
       "type": "Tapahtuman tyyppi",
       "name": "Aura Cup",
       "place": "Kupittaan, Urheilupuiston, Parkin, Impivaaran, Kaarinan kentät",
       "image": "eventImages/placeholderimage.png",
-      "info": "Jo 17 kertaa järjestetty Aura Cup jouduttiin viime vuonna peruuttamaan, vallitsevan epidemian vuoksi. Tänä vuonna olemme toiveikkaita, että turnaus voidaan järjestää, ja jotta voimme pitää tapahtuman mahdollisimman turvallisena, järjestetään turnaukseen vain kotimaisten joukkueiden kesken. Turnaus pelataan Kupittaan Urheilupuiston nurmi- ja tekonurminkentillä, Turun Urheiliupuiston Yläkentällä sekä Parkin kentällä. Kaikilla kentillä on samat palvelut ja kenttien välillä kulkee shuttle bussi, joka kuuluu majoituspaketin hintaan. Bussit kulkevat hotellien, kenttien ja lounaspaikan välillä säännöllisesti."
+      "fi": "Jo 17 kertaa järjestetty Aura Cup jouduttiin viime vuonna peruuttamaan, vallitsevan epidemian vuoksi. Tänä vuonna olemme toiveikkaita, että turnaus voidaan järjestää, ja jotta voimme pitää tapahtuman mahdollisimman turvallisena, järjestetään turnaukseen vain kotimaisten joukkueiden kesken. Turnaus pelataan Kupittaan Urheilupuiston nurmi- ja tekonurminkentillä, Turun Urheiliupuiston Yläkentällä sekä Parkin kentällä. Kaikilla kentillä on samat palvelut ja kenttien välillä kulkee shuttle bussi, joka kuuluu majoituspaketin hintaan. Bussit kulkevat hotellien, kenttien ja lounaspaikan välillä säännöllisesti.",
+      "sv": "",
+      "en": ""
     },
     {
       "date": "6.–8.8.2021",
@@ -70,23 +76,29 @@
       "name": "Kesärauha",
       "place": "Linnanpuisto",
       "image": "eventImages/rauha.jpeg",
-      "info": "Kesärauha on turkulainen vaihtoehto- ja indiemusiikin festivaali, joka järjestetään tänä vuonna poikkeuksellisesti elokuussa 6.–8.8.2021 Turun Linnanpuistossa. Vuonna 2019 debyyttinsä tehnyt Kesärauha lunasti heti kättelyssä paikkansa yhtenä Turun ja Suomen keskeisimmistä vaihtoehtomusiikin festivaaleista. Kesärauhassa 2021 nähdään niin ulkomaisia kuin kotimaisia huippuluokan artisteja, joihin lukeutuvat mm. Mew, Supergrass, Alma, Magenta Skycode, Vesta, Ruusut, Maustetytöt ja lähes 50 muuta esiintyjää."
+      "fi": "Kesärauha on turkulainen vaihtoehto- ja indiemusiikin festivaali, joka järjestetään tänä vuonna poikkeuksellisesti elokuussa 6.–8.8.2021 Turun Linnanpuistossa. Vuonna 2019 debyyttinsä tehnyt Kesärauha lunasti heti kättelyssä paikkansa yhtenä Turun ja Suomen keskeisimmistä vaihtoehtomusiikin festivaaleista. Kesärauhassa 2021 nähdään niin ulkomaisia kuin kotimaisia huippuluokan artisteja, joihin lukeutuvat mm. Mew, Supergrass, Alma, Magenta Skycode, Vesta, Ruusut, Maustetytöt ja lähes 50 muuta esiintyjää.",
+      "sv": "Kesärauha är en alternativ festival för indiemusik som i år undantagsvis arrangeras i augusti, närmare bestämt 6–8/8 2021, i Slottsparken i Åbo. Kesärauha, som gjorde debut 2019, säkrade omedelbart sin plats som en av Åbos och Finlands mest centrala festivaler för alternativ musik. På Kesärauha 2021 ser man såväl utländska som inhemska artister i toppklass, som bland annat Mew, Supergrass, Alma, Magenta Skycode, Vesta, Ruusut, Maustetytöt och närmare 50 andra artister.",
+      "en": "Kesärauha (Summer Peace) is a festival of indie and alternative music in Turku, which this year is held from 6th to 8th August 2021 in Turku Castle Park. Kesärauha, which made its debut in 2019, immediately took its place as one of the most important alternative music festivals in Turku and Finland. At Kesärauha 2021, ticket-holders can enjoy seeing both top foreign and domestic artists, including Mew, Supergrass, Alma, Magenta Skycode, Vesta, Ruusut and Maustetytöt, as well as almost 50 other performers."
     },
-    {
-      "date": "7.8.−18.8.2021",
-      "type": "Tapahtuman tyyppi",
-      "name": "Turun Musiikkijuhlat",
-      "place": "Useita tapahtumapaikkoja",
-      "image": "eventImages/musiikki.jpeg",
-      "info": "Turun musiikkijuhlat tuo Turkuun kansainvälisiä ja kotimaisia klassisen musiikin huippunimiä. Suomen vanhin yhtäjaksoisesti toiminut musiikkifestivaali on yksi Pohjois-Euroopan merkittävimmistä klassisen musiikin festivaaleista."
-    },
+      {
+        "date": "7.8.−18.8.2021",
+        "type": "Tapahtuman tyyppi",
+        "name": "Turun Musiikkijuhlat",
+        "place": "Useita tapahtumapaikkoja",
+        "image": "eventImages/musiikki.jpeg",
+        "fi": "Turun musiikkijuhlat tuo Turkuun kansainvälisiä ja kotimaisia klassisen musiikin huippunimiä. Suomen vanhin yhtäjaksoisesti toiminut musiikkifestivaali on yksi Pohjois-Euroopan merkittävimmistä klassisen musiikin festivaaleista.",
+        "sv": "Åbo musikfestspel uppträder internationella och finländska toppnamn inom klassisk musik i Åbo. Detta är både landets äldsta musikfestival som har ordnats utan avbrott sedan den grundades, och en av de mest framstående festivalerna för klassisk musik i Nordeuropa.",
+        "en": "Turku Music Festival brings to Turku the stars of classical music, both international and domestic. Finland's oldest continuously held music festival is one of Northern Europe’s most important classical music festivals."
+      },
     {
       "date": "8.8.2021",
       "type": "Tapahtuman tyyppi",
       "name": "Portsan pihamarkkinat",
       "place": "Port Arthur",
       "image": "eventImages/placeholderimage.png",
-      "info": "Portsan Pihamarkkinat levittäytyvät jälleen lähes koko Portsan alueelle Turussa. Sunnuntaina 9.8.2020 kello 11–16 pääsee noin 40 pihalle ihastelemaan Portsan ilmapiiriä ja tekemään samalla löytöjä.\nTarjolla on myytävää hellahuoneiden kätköistä, pienistä aarteista ja käsitöistä aina asuntoihin. Mukana on myös muutama alueen yritys."
+      "fi": "Portsan (Port Arthur) Pihamarkkinat levittäytyvät jälleen lähes koko Portsan alueelle Turussa. Tule ihastelemaan Portsan ilmapiiriä ja tekemään samalla löytöjä. Tarjolla on myytävää hellahuoneiden kätköistä, pienistä aarteista ja käsitöistä aina asuntoihin. Mukana on myös muutama alueen yritys.",
+      "sv": "",
+      "en": ""
     },
     {
       "date": "13.−29.8.2021",
@@ -94,47 +106,59 @@
       "name": "Huoneiden Kirja",
       "place": "Turun Kivipainon talo",
       "image": "eventImages/kirja.jpeg",
-      "info": "Astu talon kokoiseen teokseen! Satapäinen taiteilijajoukko muuttaa Huoneiden kirja -suurteoksellaan tyhjillään olevan labyrinttimaisen talon ennenkokemattomaksi elämykseksi. Immersiiviseen, monitaiteiseen ja -aistiseen esitykseen kävellään sisään. Teos pohjaa Saila Susiluodon samannimiseen runoteokseen. Esitykset Turun Kivipainossa, Ursininkatu 6."
+      "fi": "Astu talon kokoiseen teokseen! Satapäinen taiteilijajoukko muuttaa Huoneiden kirja -suurteoksellaan tyhjillään olevan labyrinttimaisen talon ennenkokemattomaksi elämykseksi. Immersiiviseen, monitaiteiseen ja -aistiseen esitykseen kävellään sisään. Teos pohjaa Saila Susiluodon samannimiseen runoteokseen. Esitykset Turun Kivipainossa, Ursininkatu 6.",
+      "sv": "",
+      "en": "Step into a single artistic work the size of a house! A group of a hundred artists transform an empty labyrinth house into an unprecedented experience – the masterpiece Huoneiden kirja (eng. A Book of Rooms). Walk into an immersive, multi-artistic and sensual performance. The work is based on Saila Susiluoto's poetry book of the same name. Performance venue: Turku Kivipaino, Ursininkatu 6."
     },
     {
       "date": "13.–15.8.2021",
       "type": "Tapahtuman tyyppi",
       "name": "Veneet Esillä",
       "place": "Ruissalon Telakka",
-      "image": "eventImages/veneet.png",
-      "info": "Uudistettu Veneet Esillä-tapahtuma järjestetään Ruissalon upealla tapahtumatelakalla. Veneet Esillä on Suomen suurin käytettyjen veneiden myyntitapahtuma. Uusi paikka tarjoaa loistavat puitteet myydä venettäsi tai muita tuotteita maaosastoilla."
+      "image": "eventImages/veneet.jpg",
+      "fi": "Uudistettu Veneet Esillä-tapahtuma järjestetään Ruissalon upealla tapahtumatelakalla. Veneet Esillä on Suomen suurin käytettyjen veneiden myyntitapahtuma. Uusi paikka tarjoaa loistavat puitteet myydä venettäsi tai muita tuotteita maaosastoilla.",
+      "sv": "",
+      "en": ""
     },
-    {
-      "date": "14.8.2021",
-      "type": "Tapahtuman tyyppi",
-      "name": "SeikkisFest",
-      "place": "Kupittaanpuisto",
-      "image": "eventImages/seikkisfest.png",
-      "info": "Elokuussa juhlitaan ensimmäistä Seikkisfestiä. Tapahtuma järjestetään 14.8.2021 klo 9.30- 11.30 Pyhän Henrikin aukiolla Kupittaan puistossa, Aura Festin yhteydessä. Lavalla nähdään Prinsessa Pikkiriikki ja astetta paremmat loilotukset sekä Biolapset. Koko perheen tapahtuma on päihteetön ja maksuton. Tapahtuman järjestää Lastenkulttuurikeskus Seikkailupuisto yhteistyössä Aura Festin kanssa."
-    },
-    {
-      "date": "14.8.2021",
-      "type": "Tapahtuman tyyppi",
-      "name": "Yliopistonkadun katumarkkinat",
-      "place": "Yliopistonkadun kävelykatu",
-      "image": "eventImages/yliopisto.png",
-      "info": "Markkinahumua, tarjouksia, etuja ja paljon kaikkea kivaa keskustassa Yliopistonkadun katumarkkinoilla aina Humalistonkadulta Brahenkadulle asti. Tervetuloa!"
-    },
-    {
-      "date": "15.8.2021",
-      "type": "Tapahtuman tyyppi",
-      "name": "Concours d’Elegance",
-      "place": "Harjattulan kartano",
-      "image": "eventImages/placeholderimage.png",
-      "info": "Sunnuntaina 16. kesäkuuta järjestetään korkeatasoinen ja poikkeuksellisen tyylikäs klassikkoautonäyttely Concours d’Elegance, jonka näyttämönä toimii Turun Kakskerrassa sijaitseva Harjattulan kartanon ympäristö. Yleisölle ilmainen tapahtuma alkaa kello 10 ja kauniiden autojen lisäksi osallistujien näköhermoa kutkutellaan korkeatasoisella ohjelmalla. Stylefellow toimii tapahtuman yhteistyökumppanina."
-    },
+      {
+        "date": "14.8.2021",
+        "type": "Tapahtuman tyyppi",
+        "name": "SeikkisFest",
+        "place": "Kupittaanpuisto",
+        "image": "eventImages/seikkisfest.jpg",
+        "fi": "Elokuussa juhlitaan ensimmäistä Seikkisfestiä. Tapahtuma järjestetään 14.8.2021 klo 9.30- 11.30 Pyhän Henrikin aukiolla Kupittaan puistossa, Aura Festin yhteydessä. Lavalla nähdään Prinsessa Pikkiriikki ja astetta paremmat loilotukset sekä Biolapset. Koko perheen tapahtuma on päihteetön ja maksuton. Tapahtuman järjestää Lastenkulttuurikeskus Seikkailupuisto yhteistyössä Aura Festin kanssa.",
+        "sv": "",
+        "en": ""
+      },
+      {
+        "date": "14.8.2021",
+        "type": "Tapahtuman tyyppi",
+        "name": "Yliopistonkadun katumarkkinat",
+        "place": "Yliopistonkadun kävelykatu",
+        "image": "eventImages/yliopisto.png",
+        "fi": "Markkinahumua, tarjouksia, etuja ja paljon kaikkea kivaa keskustassa Yliopistonkadun katumarkkinoilla aina Humalistonkadulta Brahenkadulle asti. Tervetuloa!",
+        "sv": "",
+        "en": ""
+      },
+      {
+        "date": "15.8.2021",
+        "type": "Tapahtuman tyyppi",
+        "name": "Concours d’Elegance",
+        "place": "Harjattulan kartano",
+        "image": "eventImages/placeholderimage.png",
+        "fi": "Sunnuntaina 16. kesäkuuta järjestetään korkeatasoinen ja poikkeuksellisen tyylikäs klassikkoautonäyttely Concours d’Elegance, jonka näyttämönä toimii Turun Kakskerrassa sijaitseva Harjattulan kartanon ympäristö. Yleisölle ilmainen tapahtuma alkaa kello 10 ja kauniiden autojen lisäksi osallistujien näköhermoa kutkutellaan korkeatasoisella ohjelmalla. Stylefellow toimii tapahtuman yhteistyökumppanina.",
+        "sv": "",
+        "en": ""
+      },
     {
       "date": "15.8.2021",
       "type": "Tapahtuman tyyppi",
       "name": "Turku Touring Pyöräily",
       "place": "Turku ja lähikunnat",
       "image": "eventImages/touring.jpg",
-      "info": "Tapahtumapaikkana toimii Turun Tuomiokirkko. Matkat ajetaan Turussa ja sen lähikunnissa. Kyseessä on Varsinais-Suomen suurin pyöräilytapahtuma, jossa kaikenikäiset sekä -tasoiset pyöräilijät ovat tervetulleita aktiiviharrastajista työmatkapyöräilijöihin."
+      "fi": "Tapahtumapaikkana toimii Turun Tuomiokirkko. Matkat ajetaan Turussa ja sen lähikunnissa. Kyseessä on Varsinais-Suomen suurin pyöräilytapahtuma, jossa kaikenikäiset sekä -tasoiset pyöräilijät ovat tervetulleita aktiiviharrastajista työmatkapyöräilijöihin.",
+      "sv": "",
+      "en": ""
     },
     {
       "date": "18.–20.8.2021",
@@ -142,39 +166,49 @@
       "name": "Aboagora",
       "place": "Sibelius-museo",
       "image": "eventImages/aboagora.jpg",
-      "info": "Monitieteinen ja -taiteinen ABOAGORA on vuosittain järjestettävä kansainvälinen tapahtuma, joka edistää tieteiden ja taiteiden välistä vuoropuhelua. Tänä vuonna teemana on Tuli."
+      "fi": "Monitieteinen ja -taiteinen ABOAGORA on vuosittain järjestettävä kansainvälinen tapahtuma, joka edistää tieteiden ja taiteiden välistä vuoropuhelua. Tänä vuonna teemana on Tuli.",
+      "sv": "ABOAGORA är ett symposium som främjar dialogen mellan konst och vetenskap. År 2021 är temat Eld.",
+      "en": "ABOAGORA is an annual symposium that brings together academia, the arts, and society. In 2021, the event will explore Fire as both a literal and a metaphorical element."
     },
     {
       "date": "20.–21.8.2021",
       "type": "Tapahtuman tyyppi",
       "name": "Paavo Nurmi Marathon",
       "place": "Teatterialue (Lähtö, maali)",
-      "image": "eventImages/placeholderimage.png",
-      "info": "Perjantaina 20. elokuuta juostaan vitonen ja kymppi Turun kaupungin sykkeessä ja Aurajoen rantamaisemissa! Lähde sinäkin mukaan kesän kuumimpaan tapahtumaan! Paavo Nurmi Marathon on enemmän >> vitonen, kymppi, puolimaraton ja maraton!"
+      "image": "eventImages/paavo.jpg",
+      "fi": "Paavo Nurmi Marathon on juoksutapahtuma, joka järjestetään Turussa 20.-21.8. Tapahtuma järjestetään 30. kerran ja se tarjoaa jokaiselle osallistujalle sopivan matkavaihtoehdon. Tapahtuman matkavaihtoehdot ovat 5km, 10km, puolimaraton ja maraton. 21.8 järjestetään myös lasten Minimaraton.",
+      "sv": "",
+      "en": ""
     },
-    {
-      "date": "24.–28.8.2021",
-      "type": "Tapahtuman tyyppi",
-      "name": "TFO:n Luontosinfonia",
-      "place": "Forum Marinumin piha-alue",
-      "image": "eventImages/luonto.jpeg",
-      "info": "Itämeripäivänä on tarjolla nautintoa kaikille aisteille, kun Luontosinfonia esitetään Forum Marinumin edustalla ulkoimakonserttina. Luontosinfonia on Turun filharmonisen orkesterin ainutlaatuinen musiikkiesitys, joka hivelee samalla näköaistia, sillä se esitetään elokuvan muodossa. Kyseessä on dokumentaarinen luontokuvaus, ylistys Suomen upealle luonnolle. Orkesteria johtaa Erkki Lasonpalo, ja lavalla nähdään myös yksi Suomen arvostetuimmista esiintyjistä, Aili Ikonen. Elokuvan on ohjannut Marko Röhr. Luontosinfonia on osa Itämerenpäivä tapahtumaa."
-    },
-    {
-      "date": "25.–29.8.2021",
-      "type": "Tapahtuman tyyppi",
-      "name": "TAFF - Turku animated film festival",
-      "place": "Manilla",
-      "image": "eventImages/taff.jpeg",
-      "info": "Turku Animated Film Festival, tuttavallisemmin TAFF, on mitä hurmaavin kansainvälinen animaatioelokuvafestivaali. Luvassa on jälleen lumoavia lyhytanimaationäytöksiä ja roppakaupalla kansainvälistä festivaalitunnelmaa."
-    },
+      {
+        "date": "24.–28.8.2021",
+        "type": "Tapahtuman tyyppi",
+        "name": "TFO:n Luontosinfonia",
+        "place": "Forum Marinumin piha-alue",
+        "image": "eventImages/luonto.jpeg",
+        "fi": "Itämeripäivänä on tarjolla nautintoa kaikille aisteille, kun Luontosinfonia esitetään Forum Marinumin edustalla ulkoimakonserttina. Luontosinfonia on Turun filharmonisen orkesterin ainutlaatuinen musiikkiesitys, joka hivelee samalla näköaistia, sillä se esitetään elokuvan muodossa. Kyseessä on dokumentaarinen luontokuvaus, ylistys Suomen upealle luonnolle. Orkesteria johtaa Erkki Lasonpalo, ja lavalla nähdään myös yksi Suomen arvostetuimmista esiintyjistä, Aili Ikonen. Elokuvan on ohjannut Marko Röhr. Luontosinfonia on osa Itämerenpäivä tapahtumaa.",
+        "sv": "",
+        "en": "During the Baltic Sea Day, every sense can experience something wonderful, when the Nature Symphony will be performed as an outdoor concert in front of Forum Marinum. The Nature Symphony is a unique musical performance by the Turku Philharmonic Orchestra (TFO), in which a visual experience is also provided through film. This documentary of nature is a celebration of Finland's magnificent natural world. The orchestra is conducted by Erkki Lasonpalo along with one of Finland's most respected performers, Aili Ikonen, who is also seen on stage. The film is directed by Marko Röhr. The Nature Symphony is part of the Baltic Sea Day event."
+      },
+      {
+        "date": "25.–29.8.2021",
+        "type": "Tapahtuman tyyppi",
+        "name": "TAFF - Turku animated film festival",
+        "place": "Manilla",
+        "image": "eventImages/taff.jpeg",
+        "fi": "Turku Animated Film Festival, tuttavallisemmin TAFF, on mitä hurmaavin kansainvälinen animaatioelokuvafestivaali. Luvassa on jälleen lumoavia lyhytanimaationäytöksiä ja roppakaupalla kansainvälistä festivaalitunnelmaa.",
+        "sv": "Turku Animated Film Festival, även kallad TAFF, är Finlands mest förtjusande internationella festival för animerade filmer. I slutet av augusti är det igen dags för bedårande föreställningar av animerade kortfilmer och massor av festivalstämning.",
+        "en": "Turku Animated Film Festival, more commonly known as TAFF, is Finland's most charming, international animated film festival. Once again audiences can enjoy enchanting short-animations and a rich international festival atmosphere."
+      },
     {
       "date": "26.8.2021",
       "type": "Tapahtuman tyyppi",
       "name": "Itämeripäivä Turussa",
       "place": "Useita tapahtumapaikkoja",
       "image": "eventImages/itameri.png",
-      "info": "Itämeripäivää vietetään 26.8. monien mielenkiintoisten tapahtumien parissa. Itämeripäivän tapahtumat ovat kaikille avoimia tilaisuuksia laidasta laitaan, joihin osallistuminen on pääasiassa ilmaista. Kiinnostaisiko esimerkiksi luovan kirjoittamisen työpaja, jossa muistellaan ja maistellaan meren sekä elämän suolaa? Vai kenties joku kierros, näyttely tai keskustelu? Vaiko Luontosinfonia-ulkoilmakonsertti, Itämerimenu tai joukkopulahdus? Itämeri-hetkistä on moneksi!"
+      "fi": "Itämeripäivää vietetään 26.8. monien mielenkiintoisten tapahtumien parissa. Itämeripäivän tapahtumat ovat kaikille avoimia tilaisuuksia laidasta laitaan, joihin osallistuminen on pääasiassa ilmaista. Kiinnostaisiko esimerkiksi luovan kirjoittamisen työpaja, jossa muistellaan ja maistellaan meren sekä elämän suolaa? Vai kenties joku kierros, näyttely tai keskustelu? Vaiko Luontosinfonia-ulkoilmakonsertti, Itämerimenu tai joukkopulahdus? Itämeri-hetkistä on moneksi!",
+      "sv": "",
+      "en": "The Baltic Sea Day is celebrated on the 26th August, bringing together many interesting events. The different kinds of events of the Baltic Sea Day are open to all, of which participation in many is free. For instance, are you interested in a creative writing workshop where you dive into the deep sea of life? Or perhaps a tour, a performance or discussion? Maybe a Nature Symphony in an open-air concert, a Baltic Sea menu or a group dip in the sea? The Baltic Sea brings many memorable moments!"
     }
   ]
 }
