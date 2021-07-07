@@ -21,7 +21,7 @@
   "line": "Route",
   "finalstop": "Terminus",
   "moreEvents": "View later events",
-  "moreDepartures": "Show later depature times",
+  "moreDepartures": "Show later departure times",
   "moreArrivals": "Show later arrival times",
   "earlierevents": "View earlier events",
   "startpier": "Departure pier",
@@ -40,5 +40,7 @@
   "adult": "Adult",
   "child": "Child",
   "student": "Student",
-  "free": "free"
+  "free": "free",
+  "map": "images/kaupunkikartta_eng.jpg",
+  "archipelagomap": "images/saaristokartta_eng.jpg"
 }

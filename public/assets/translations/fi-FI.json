@@ -42,5 +42,6 @@
   "student": "Opiskelijat",
   "free": "ilmaiseksi",
   "closingTime": "Suljetaan",
-  "": ""
+  "map": "images/kaupunkikartta.jpg",
+  "archipelagomap": "images/saaristokartta.jpg"
 }

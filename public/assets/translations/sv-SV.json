@@ -40,5 +40,7 @@
   "adult": "Vuxen",
   "child": "Barn",
   "student": "Studerande",
-  "free": "Gratis"
+  "free": "Gratis",
+  "map": "images/kaupunkikartta_sve.jpg",
+  "archipelagomap": "images/saaristokartta_sve.jpg"
 }

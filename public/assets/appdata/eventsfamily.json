@@ -101,15 +101,15 @@
       "type": "Tapahtuman tyyppi",
       "name": "Veneet Esillä",
       "place": "Ruissalon Telakka",
-      "image": "eventImages/placeholderimage.png",
-      "info": "Veneet Esillä on Suomen suurin käytettyjen veneiden myyntitapahtuma. Uudistettu Veneet Esillä-tapahtuma järjestetään Ruissalon upealla tapahtumatelakalla."
+      "image": "eventImages/veneet.png",
+      "info": "Uudistettu Veneet Esillä-tapahtuma järjestetään Ruissalon upealla tapahtumatelakalla. Veneet Esillä on Suomen suurin käytettyjen veneiden myyntitapahtuma. Uusi paikka tarjoaa loistavat puitteet myydä venettäsi tai muita tuotteita maaosastoilla."
     },
     {
       "date": "14.8.2021",
       "type": "Tapahtuman tyyppi",
       "name": "SeikkisFest",
       "place": "Kupittaanpuisto",
-      "image": "eventImages/placeholderimage.png",
+      "image": "eventImages/seikkisfest.png",
       "info": "Elokuussa juhlitaan ensimmäistä Seikkisfestiä. Tapahtuma järjestetään 14.8.2021 klo 9.30- 11.30 Pyhän Henrikin aukiolla Kupittaan puistossa, Aura Festin yhteydessä. Lavalla nähdään Prinsessa Pikkiriikki ja astetta paremmat loilotukset sekä Biolapset. Koko perheen tapahtuma on päihteetön ja maksuton. Tapahtuman järjestää Lastenkulttuurikeskus Seikkailupuisto yhteistyössä Aura Festin kanssa."
     },
     {
@@ -117,8 +117,8 @@
       "type": "Tapahtuman tyyppi",
       "name": "Yliopistonkadun katumarkkinat",
       "place": "Yliopistonkadun kävelykatu",
-      "image": "eventImages/placeholderimage.png",
-      "info": "Yliopistonkadun katumarkkinat palaavat Turun keskustaan lähes 15 vuoden tauon jälkeen. Markkina-alueena toimii Yliopistonkatu (Humalistonkadun risteyksestä Kauppatorille). Kauppaa käydään lauantaina 10.8.2019 klo 10-17."
+      "image": "eventImages/yliopisto.png",
+      "info": "Markkinahumua, tarjouksia, etuja ja paljon kaikkea kivaa keskustassa Yliopistonkadun katumarkkinoilla aina Humalistonkadulta Brahenkadulle asti. Tervetuloa!"
     },
     {
       "date": "15.8.2021",
@@ -133,15 +133,15 @@
       "type": "Tapahtuman tyyppi",
       "name": "Turku Touring Pyöräily",
       "place": "Turku ja lähikunnat",
-      "image": "eventImages/placeholderimage.png",
-      "info": "Koko perheen reipas ja hyväntuulinen liikuntatapahtuma Turku Touring Pyöräily poljetaan seuraavan kerran 15.8.2021. Osallistuminen ei edellytä huippuvarusteita, joten voit ilmoittautua mukaan melkeinpä millaisella pyörällä tahansa. Ainoastaan pyöräilykypärä on pakollinen varuste. Tarkat reitit, matkat ja ilmoittautumisohjeet julkaistaan keväällä 2021."
+      "image": "eventImages/touring.jpg",
+      "info": "Tapahtumapaikkana toimii Turun Tuomiokirkko. Matkat ajetaan Turussa ja sen lähikunnissa. Kyseessä on Varsinais-Suomen suurin pyöräilytapahtuma, jossa kaikenikäiset sekä -tasoiset pyöräilijät ovat tervetulleita aktiiviharrastajista työmatkapyöräilijöihin."
     },
     {
       "date": "18.–20.8.2021",
       "type": "Tapahtuman tyyppi",
       "name": "Aboagora",
       "place": "Sibelius-museo",
-      "image": "eventImages/placeholderimage.png",
+      "image": "eventImages/aboagora.jpg",
       "info": "Monitieteinen ja -taiteinen ABOAGORA on vuosittain järjestettävä kansainvälinen tapahtuma, joka edistää tieteiden ja taiteiden välistä vuoropuhelua. Tänä vuonna teemana on Tuli."
     },
     {
