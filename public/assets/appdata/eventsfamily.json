@@ -60,15 +60,16 @@
         "sv": "Archipelago Sea Jazz är en unik festivalserie, vars fyra evenemang bjuder på toppmusik och skärgårdsstämning sommaren 2021. Festivalerna lockar jazzfolket att njuta av den havsnära atmosfären i Dalsbruk, Korpo, Runsala varv i Åbo och i Mariehamn. Jazz i världsklass och skärgårdens särskilda stämning: detta är Archipelago Sea Jazz.",
         "en": "Archipelago Sea Jazz is a unique series of four festivals that invite you to embrace the intimate archipelago atmosphere and top music during the summer of 2021. The collection of seaside festivals brings jazz enthusiasts together on Kimito Island, in Korpo, to the Ruissalo Boatyard in Turku and Mariehamn in Åland. World class jazz and the romance of the archipelago: this is Archipelago Sea Jazz."
       },
+
     {
-      "date": "30.7.–1.8.2021",
+      "date": "24.–25.7.20212021",
       "type": "Tapahtuman tyyppi",
       "name": "Aura Cup",
       "place": "Kupittaan, Urheilupuiston, Parkin, Impivaaran, Kaarinan kentät",
       "image": "eventImages/placeholderimage.png",
       "fi": "Jo 17 kertaa järjestetty Aura Cup jouduttiin viime vuonna peruuttamaan, vallitsevan epidemian vuoksi. Tänä vuonna olemme toiveikkaita, että turnaus voidaan järjestää, ja jotta voimme pitää tapahtuman mahdollisimman turvallisena, järjestetään turnaukseen vain kotimaisten joukkueiden kesken. Turnaus pelataan Kupittaan Urheilupuiston nurmi- ja tekonurminkentillä, Turun Urheiliupuiston Yläkentällä sekä Parkin kentällä. Kaikilla kentillä on samat palvelut ja kenttien välillä kulkee shuttle bussi, joka kuuluu majoituspaketin hintaan. Bussit kulkevat hotellien, kenttien ja lounaspaikan välillä säännöllisesti.",
       "sv": "",
-      "en": ""
+      "en": "The Aura Cup football tournament, which has already been held 17 times, will be organized again this year. The tournament will be played on the grass and artificial turf fields of Kuppittaa Sports Park, Turku Sports Park’s Upper Field as well as Parkki Field. All the fields have the same services and a shuttle bus, which is included in the price of the accommodation package, will run between them. The buses will run regularly between the hotels, fields, and lunch spot."
     },
     {
       "date": "6.–8.8.2021",
@@ -98,7 +99,7 @@
       "image": "eventImages/placeholderimage.png",
       "fi": "Portsan (Port Arthur) Pihamarkkinat levittäytyvät jälleen lähes koko Portsan alueelle Turussa. Tule ihastelemaan Portsan ilmapiiriä ja tekemään samalla löytöjä. Tarjolla on myytävää hellahuoneiden kätköistä, pienistä aarteista ja käsitöistä aina asuntoihin. Mukana on myös muutama alueen yritys.",
       "sv": "",
-      "en": ""
+      "en": "Portsa (Port Arthur) Garden Markets will once again take over almost the whole Portsa area in Turku. Come and admire the atmosphere of Portsa, and uncover some gems at the same time. You’ll find things on sale from the kitchen as well as small treasures and crafts, and even apartments. There are also a few local businesses taking part."
     },
     {
       "date": "13.−29.8.2021",
@@ -118,38 +119,38 @@
       "image": "eventImages/veneet.jpg",
       "fi": "Uudistettu Veneet Esillä-tapahtuma järjestetään Ruissalon upealla tapahtumatelakalla. Veneet Esillä on Suomen suurin käytettyjen veneiden myyntitapahtuma. Uusi paikka tarjoaa loistavat puitteet myydä venettäsi tai muita tuotteita maaosastoilla.",
       "sv": "",
-      "en": ""
+      "en": "The renovated Boats on Show event will be held at Ruissalo's magnificent shipyard. This is the largest used boat sales event in Finland. The new location provides a great setting to sell your boat or other products in land departments."
     },
-      {
-        "date": "14.8.2021",
-        "type": "Tapahtuman tyyppi",
-        "name": "SeikkisFest",
-        "place": "Kupittaanpuisto",
-        "image": "eventImages/seikkisfest.jpg",
-        "fi": "Elokuussa juhlitaan ensimmäistä Seikkisfestiä. Tapahtuma järjestetään 14.8.2021 klo 9.30- 11.30 Pyhän Henrikin aukiolla Kupittaan puistossa, Aura Festin yhteydessä. Lavalla nähdään Prinsessa Pikkiriikki ja astetta paremmat loilotukset sekä Biolapset. Koko perheen tapahtuma on päihteetön ja maksuton. Tapahtuman järjestää Lastenkulttuurikeskus Seikkailupuisto yhteistyössä Aura Festin kanssa.",
-        "sv": "",
-        "en": ""
-      },
-      {
-        "date": "14.8.2021",
-        "type": "Tapahtuman tyyppi",
-        "name": "Yliopistonkadun katumarkkinat",
-        "place": "Yliopistonkadun kävelykatu",
-        "image": "eventImages/yliopisto.png",
-        "fi": "Markkinahumua, tarjouksia, etuja ja paljon kaikkea kivaa keskustassa Yliopistonkadun katumarkkinoilla aina Humalistonkadulta Brahenkadulle asti. Tervetuloa!",
-        "sv": "",
-        "en": ""
-      },
-      {
-        "date": "15.8.2021",
-        "type": "Tapahtuman tyyppi",
-        "name": "Concours d’Elegance",
-        "place": "Harjattulan kartano",
-        "image": "eventImages/placeholderimage.png",
-        "fi": "Sunnuntaina 16. kesäkuuta järjestetään korkeatasoinen ja poikkeuksellisen tyylikäs klassikkoautonäyttely Concours d’Elegance, jonka näyttämönä toimii Turun Kakskerrassa sijaitseva Harjattulan kartanon ympäristö. Yleisölle ilmainen tapahtuma alkaa kello 10 ja kauniiden autojen lisäksi osallistujien näköhermoa kutkutellaan korkeatasoisella ohjelmalla. Stylefellow toimii tapahtuman yhteistyökumppanina.",
-        "sv": "",
-        "en": ""
-      },
+    {
+      "date": "14.8.2021",
+      "type": "Tapahtuman tyyppi",
+      "name": "SeikkisFest",
+      "place": "Kupittaanpuisto",
+      "image": "eventImages/seikkisfest.jpg",
+      "fi": "Elokuussa juhlitaan ensimmäistä Seikkisfestiä. Tapahtuma järjestetään 14.8.2021 klo 9.30- 11.30 Pyhän Henrikin aukiolla Kupittaan puistossa, Aura Festin yhteydessä. Lavalla nähdään Prinsessa Pikkiriikki ja astetta paremmat loilotukset sekä Biolapset. Koko perheen tapahtuma on päihteetön ja maksuton. Tapahtuman järjestää Lastenkulttuurikeskus Seikkailupuisto yhteistyössä Aura Festin kanssa.",
+      "sv": "",
+      "en": "The first Seikkisfest is celebrated in August. The event will be held on August 14, 2021 from 9:30 to 11:30 in St. Henry's Square in Kupittaa Park, in connection with Aura Fest. On stage, you will see Princess Pikkiriikki and the degrees better than the Lolies. The whole family event is free. The event is organized by the Children's Cultural Center Adventure Park in cooperation with Aura Fest."
+    },
+    {
+      "date": "14.8.2021",
+      "type": "Tapahtuman tyyppi",
+      "name": "Yliopistonkadun katumarkkinat",
+      "place": "Yliopistonkadun kävelykatu",
+      "image": "eventImages/yliopisto.png",
+      "fi": "Markkinahumua, tarjouksia, etuja ja paljon kaikkea kivaa keskustassa Yliopistonkadun katumarkkinoilla aina Humalistonkadulta Brahenkadulle asti. Tervetuloa!",
+      "sv": "",
+      "en": "Markkinahumua, offers, benefits and much more in the center at Yliopistonkatu street market from Humalistonkatu to Brahenkatu. Welcome!"
+    },
+    {
+      "date": "15.8.2021",
+      "type": "Tapahtuman tyyppi",
+      "name": "Concours d’Elegance",
+      "place": "Harjattulan kartano",
+      "image": "eventImages/placeholderimage.png",
+      "fi": "Sunnuntaina 16. kesäkuuta järjestetään korkeatasoinen ja poikkeuksellisen tyylikäs klassikkoautonäyttely Concours d’Elegance, jonka näyttämönä toimii Turun Kakskerrassa sijaitseva Harjattulan kartanon ympäristö. Yleisölle ilmainen tapahtuma alkaa kello 10 ja kauniiden autojen lisäksi osallistujien näköhermoa kutkutellaan korkeatasoisella ohjelmalla. Stylefellow toimii tapahtuman yhteistyökumppanina.",
+      "sv": "",
+      "en": "On Sunday, June 16, a high-quality and exceptionally stylish classic car exhibition Concours d’Elegance will be held, the stage of which will be the surroundings of Harjattula Manor in Kakskerra, Turku. The free event for the public will start at 10 a.m. and in addition to the beautiful cars, the sights of the participants will be tickled with a high-quality program. Stylefellow will be the event partner."
+    },
     {
       "date": "15.8.2021",
       "type": "Tapahtuman tyyppi",
@@ -158,7 +159,7 @@
       "image": "eventImages/touring.jpg",
       "fi": "Tapahtumapaikkana toimii Turun Tuomiokirkko. Matkat ajetaan Turussa ja sen lähikunnissa. Kyseessä on Varsinais-Suomen suurin pyöräilytapahtuma, jossa kaikenikäiset sekä -tasoiset pyöräilijät ovat tervetulleita aktiiviharrastajista työmatkapyöräilijöihin.",
       "sv": "",
-      "en": ""
+      "en": "The venue is Turku Cathedral. The trips are run in Turku and its surrounding municipalities. This is the largest cycling event in Southwest Finland, where cyclists of all ages and levels are welcome, from active enthusiasts to commuters."
     },
     {
       "date": "18.–20.8.2021",
@@ -178,7 +179,7 @@
       "image": "eventImages/paavo.jpg",
       "fi": "Paavo Nurmi Marathon on juoksutapahtuma, joka järjestetään Turussa 20.-21.8. Tapahtuma järjestetään 30. kerran ja se tarjoaa jokaiselle osallistujalle sopivan matkavaihtoehdon. Tapahtuman matkavaihtoehdot ovat 5km, 10km, puolimaraton ja maraton. 21.8 järjestetään myös lasten Minimaraton.",
       "sv": "",
-      "en": ""
+      "en": "Paavo Nurmi Marathon is a running event, which will be held in Turku from 20 to 21 August. This is the 30th time the event has been organized and there is a suitable distance for every participant. The options are 5km, 10km, a half-marathon and a marathon. A children’s mini-marathon will also be organized on 21 "
     },
       {
         "date": "24.–28.8.2021",
